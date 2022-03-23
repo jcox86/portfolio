@@ -43,12 +43,10 @@ module.exports = {
           h2Text: `I'm a Software Engineer who loves working in the Full Stack, I have worked as a software developer since 2011.`,
           typewriter: [
             `Coding is my passion 😎`,
-            `I live in Atascadero, CA with my wife and 4️⃣ crazy kids`,
-            `I'm a 🍕, 🍔, 🌮, 🍪, and 🍻 lover`,
             `I'm a fast learner and always interested in learning new technologies 🤓`,
             `One of my values is the <strong>ability to resolve problems<strong>`,
             `I like to share what I know 👨‍🏫 and mentor others`,
-            `In my non-coding hours, I'm at the 🏋‍`,
+            `I'm a 🍕, 🍔, 🌮, 🍪, lover and 🍻, ☕ connaisseur`,
             `I also do design and UX work <span style='color: #27ae60;'>occasionally</span>`,
           ],
         },

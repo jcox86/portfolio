@@ -18,6 +18,7 @@ images:
       title: "Achievements",
       description: "In my role as a web desginer, I worked on HTML and CSS in Dreamweaver designing marketing sales pieces for company sales team and marketing departments.",
       layout: "4",
+      caption: "",
       files:
         [
           { image: ../images/companies/common/codescreen2.jpg },
@@ -29,11 +30,12 @@ images:
       title: "Emails and CMS",
       description: "I got the messages to have a good reputation in SPAM filters by following the standards and rules allowing the messages to reach the inbox, I also developed a CMS.",
       layout: "1",
+      caption: "",
       files:
         [
-          { image: ../images/companies/vyp/evaluacion.jpg },
-          { image: ../images/companies/vyp/database.jpg },
-          { image: ../images/companies/vyp/outlook.png },
+          { image: ../images/companies/vyp/vyp1.jpg },
+          { image: ../images/companies/vyp/vyp2.png },
+          { image: ../images/companies/vyp/vyp3.png },
         ],
     },
   ]
