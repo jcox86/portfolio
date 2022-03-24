@@ -34,19 +34,6 @@ describe("Skills page", () => {
     })
   })
 
-  it("should detect skills in the beginning and in end", () => {
-    cy.get("[data-test=skills]").within(() => {
-      cy.root()
-        .find(">li")
-        .should("contain", "React")
-        .and("contain", "React Native")
-        .and("contain", "Gatsby")
-        .and("contain", "Google Maps")
-        .and("contain", "CakePHP")
-        .and("contain", "SVN")
-    })
-  })
-
   it("should the skill logos render a spacer div", () => {
     cy.get("[data-test=skills]").within(() => {
       cy.scrollTo(0, 210)

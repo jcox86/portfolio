@@ -44,9 +44,9 @@ module.exports = {
           typewriter: [
             `Coding is my passion 😎`,
             `I'm a fast learner and always interested in learning new technologies 🤓`,
-            `One of my values is the <strong>ability to resolve problems<strong>`,
+            `My missions is to enable the continuous <strong>delivery of value<strong>`,
             `I like to share what I know 👨‍🏫 and mentor others`,
-            `I'm a 🍕, 🍔, 🌮, 🍪, lover and 🍻, ☕ connaisseur`,
+            `I love finding new places to get 🍕, 🍔, 🌮, 🍪, 🍻, ☕, 🍦`,
             `I also do design and UX work <span style='color: #27ae60;'>occasionally</span>`,
           ],
         },

@@ -1,15 +1,11 @@
-describe("Vlooping experience page", () => {
+describe("County experience page", () => {
   const h3Titles = [
-    "Mobile App Development",
-    "Mobile App",
-    "Queue",
-    "Social network",
-    "Recording Messages",
-    "Report Content",
+    "Property Mobile",
+    "Property Search"
   ]
 
   beforeEach(() => {
-    cy.visit("/experience/vlooping")
+    cy.visit("/experience/county")
     cy.wait(1000)
   })
 
