@@ -8,10 +8,10 @@ module.exports = {
         imagesPath: `src/images/`,
         iconFile: `src/images/icon.jpg`,
         siteTitle: `Portfolio`,
-        siteUrl: `https://www.christianibarguen.com`,
+        siteUrl: `https://jolly-mud-0d770241e.1.azurestaticapps.net/`,
         siteName: `Jake Cox`,
         siteShortName: `JCC`,
-        siteDescription: `This nifty website contains information about my work experience as a software developer.`,
+        siteDescription: `This spiffy website contains information about my work experience as a software engineer.`,
         siteKeywords: `Full Stack Developer, Software Engineer`,
         useMozJpeg: true,
         menuLinks: [

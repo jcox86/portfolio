@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "scripts": {
-    "build": "gatsby build",
+    "build": "gatsby clean && gatsby build",
     "develop": "gatsby develop",
     "clean": "gatsby clean",
     "lint": "eslint .",
@@ -15,7 +15,7 @@
     "test:integration:ci": "start-server-and-test develop http://localhost:8000 cy:run"
   },
   "dependencies": {
-    "@christiandavid/gatsby-theme-byfolio": "*",
+    "@christiandavid/gatsby-theme-byfolio": "1.1.3",
     "gatsby": "^2.24.11",
     "gatsby-plugin-google-gtag": "^2.1.10",
     "react": "^16.13.1",
